@@ -1,6 +1,7 @@
 <template>
   <div id="app">
 	  <div> 密码提交测试 </div>
+	  <div> 水水水水是 </div>
   </div>
 </template>
 
