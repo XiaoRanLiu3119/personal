@@ -1,9 +1,6 @@
 <template>
   <div id="app">
-	  <div> 测试 </div>
-	  <div> 第二次测试测试 </div>
-	  <div> 第三次测试测试 </div>
-	  <div> 家里测试测试 </div>
+	  <div> git测试 </div>
   </div>
 </template>
 
