@@ -2,6 +2,7 @@
   <div id="app">
 	  <div> git2测试 </div>
 	  <div> git3测试 </div>
+	  <div> 密码测试 </div>
   </div>
 </template>
 
