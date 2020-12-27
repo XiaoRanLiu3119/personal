@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-	  <div> git测试 </div>
+	  <div> git2测试 </div>
   </div>
 </template>
 
